@@ -1,0 +1,23 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 4em;
+    margin: 0.25em 0;
+}
+p {
+    font-size: 1.5em;
+}
+figure {
+    float: left;
+    padding: 4px;
+    margin: 0 0.5em 0.5em 0;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 2px #ccc;
+}
+figcaption {
+    font-size: 0.8em;
+    color: #111;
+}
+
